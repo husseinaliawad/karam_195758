@@ -9,3 +9,4 @@ scipy
 plotly
 python-dotenv
 whitenoise
+gunicorn
