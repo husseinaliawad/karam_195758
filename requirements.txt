@@ -1,0 +1,11 @@
+Django>=4.2,<5.0
+djangorestframework
+celery
+redis
+scikit-learn
+pandas
+numpy
+scipy
+plotly
+python-dotenv
+whitenoise
